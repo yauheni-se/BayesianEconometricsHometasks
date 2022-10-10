@@ -1,2 +1,2 @@
 # BayesianEconometricsHometasks
-Hometasks from Bayesian econometrics subject from my master studies
+Hometasks from the Bayesian Econometrics subject from my master studies
